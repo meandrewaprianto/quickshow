@@ -35,7 +35,7 @@ const HeroSection = () => {
         conspiracy.
       </p>
       <button
-        onClick={() => navigate("/movies")}
+        onClick={() => navigate("/movie")}
         className="flex items-center gap-1 px-6 py-3 text-sm bg-primary hover:bg-primary-dull transition rounded-full font-medium cursor-pointer"
       >
         Explore Movies
